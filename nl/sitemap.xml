@@ -78,20 +78,6 @@
   </url>
   
   <url>
-    <loc>kmeinster.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="kmeinster.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="kmeinster.github.io/about/"
-                />
-  </url>
-  
-  <url>
     <loc>kmeinster.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,6 +88,20 @@
                 rel="alternate"
                 hreflang="nl"
                 href="kmeinster.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>kmeinster.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kmeinster.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="kmeinster.github.io/about/"
                 />
   </url>
   
