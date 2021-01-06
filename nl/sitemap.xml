@@ -3,85 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>kmeinster.github.io/blog/</loc>
+    <loc>https://kmeinster.github.io/blog/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kmeinster.github.io/en/blog/"
+                href="https://kmeinster.github.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="kmeinster.github.io/blog/"
+                href="https://kmeinster.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>kmeinster.github.io/</loc>
+    <loc>https://kmeinster.github.io/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kmeinster.github.io/en/"
+                href="https://kmeinster.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="kmeinster.github.io/"
+                href="https://kmeinster.github.io/"
                 />
   </url>
   
   <url>
-    <loc>kmeinster.github.io/blog/krabby_patty/</loc>
+    <loc>https://kmeinster.github.io/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>kmeinster.github.io/tags/recipe/</loc>
+    <loc>https://kmeinster.github.io/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>kmeinster.github.io/tags/</loc>
+    <loc>https://kmeinster.github.io/tags/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kmeinster.github.io/en/tags/"
+                href="https://kmeinster.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="kmeinster.github.io/tags/"
+                href="https://kmeinster.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>kmeinster.github.io/categories/</loc>
+    <loc>https://kmeinster.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kmeinster.github.io/en/categories/"
+                href="https://kmeinster.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="kmeinster.github.io/categories/"
+                href="https://kmeinster.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>kmeinster.github.io/about/</loc>
+    <loc>https://kmeinster.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kmeinster.github.io/en/about/"
+                href="https://kmeinster.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="kmeinster.github.io/about/"
+                href="https://kmeinster.github.io/about/"
                 />
   </url>
   

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karsten @ Kube.ist / SRE / of iets</title>
-    <link>kmeinster.github.io/</link>
+    <link>https://kmeinster.github.io/</link>
     <description>Recent content on Karsten @ Kube.ist / SRE / of iets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0200</lastBuildDate><atom:link href="kmeinster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://kmeinster.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Krabby Patty recipe</title>
-      <link>kmeinster.github.io/blog/krabby_patty/</link>
+      <link>https://kmeinster.github.io/blog/krabby_patty/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0200</pubDate>
       
-      <guid>kmeinster.github.io/blog/krabby_patty/</guid>
+      <guid>https://kmeinster.github.io/blog/krabby_patty/</guid>
       <description>Ingredients: For 4 people :
  Lots of love 2 cans of crab meat 1 lightly beaten egg 1/2 lemon juice Breadcrumbs 1 tomato Hamburger bread Pickles 1 onion 4 salad leaves Frying oil Salt pepper  For the sauce:
  Worcestershire sauce Ketchup Mustard  Steps :   In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Dingen over mij</title>
-      <link>kmeinster.github.io/about/</link>
+      <link>https://kmeinster.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>kmeinster.github.io/about/</guid>
+      <guid>https://kmeinster.github.io/about/</guid>
       <description>Ik ben dus Karsten Meinster doe wat dingetjes in de IT voornamelijk op het gebied van infrastructuur en platformen. Vooral veel bezig op het gebied van container platforms (vroeger zaken als Mesos en LXC nu toch echt Kubernetes) en vooral zaken er om heen. Te denken valt aan deployment pipelines, monitoring omgevingen, integratie met bijkomende zaken als identity management, gedistribueerde systemen, noem maar op.
 In het verleden veel bezig geweest met migratie projecten, platform vernieuwingen en natuurlijk gewoon beheer van software.</description>
     </item>

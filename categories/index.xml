@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Karsten @ Kube.ist / SRE / of iets</title>
-    <link>kmeinster.github.io/categories/</link>
+    <link>https://kmeinster.github.io/categories/</link>
     <description>Recent content in Categories on Karsten @ Kube.ist / SRE / of iets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl</language><atom:link href="kmeinster.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language><atom:link href="https://kmeinster.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
