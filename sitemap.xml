@@ -2,14 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>kmeinster.github.io/nl/sitemap.xml</loc>
-    
-      <lastmod>2020-06-25T00:00:00+02:00</lastmod>
+    <loc>kmeinster.github.io/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>kmeinster.github.io/en/sitemap.xml</loc>
+    <loc>kmeinster.github.io/nl/sitemap.xml</loc>
     
       <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     
