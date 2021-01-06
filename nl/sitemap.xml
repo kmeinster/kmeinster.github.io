@@ -3,85 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kmeinster.github.io/blog/</loc>
+    <loc>https://kubetaire.nl/blog/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/blog/"
+                href="https://kubetaire.nl/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/blog/"
+                href="https://kubetaire.nl/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/</loc>
+    <loc>https://kubetaire.nl/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/"
+                href="https://kubetaire.nl/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/"
+                href="https://kubetaire.nl/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/blog/krabby_patty/</loc>
+    <loc>https://kubetaire.nl/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/tags/recipe/</loc>
+    <loc>https://kubetaire.nl/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/tags/</loc>
+    <loc>https://kubetaire.nl/tags/</loc>
     <lastmod>2020-06-25T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/tags/"
+                href="https://kubetaire.nl/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/tags/"
+                href="https://kubetaire.nl/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/categories/</loc>
+    <loc>https://kubetaire.nl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/categories/"
+                href="https://kubetaire.nl/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/categories/"
+                href="https://kubetaire.nl/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/about/</loc>
+    <loc>https://kubetaire.nl/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/about/"
+                href="https://kubetaire.nl/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/about/"
+                href="https://kubetaire.nl/about/"
                 />
   </url>
   

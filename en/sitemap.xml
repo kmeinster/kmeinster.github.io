@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kmeinster.github.io/en/about/</loc>
+    <loc>https://kubetaire.nl/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/about/"
+                href="https://kubetaire.nl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/about/"
+                href="https://kubetaire.nl/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/en/categories/</loc>
+    <loc>https://kubetaire.nl/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/categories/"
+                href="https://kubetaire.nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/categories/"
+                href="https://kubetaire.nl/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/en/blog/</loc>
+    <loc>https://kubetaire.nl/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/blog/"
+                href="https://kubetaire.nl/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/blog/"
+                href="https://kubetaire.nl/en/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/en/</loc>
+    <loc>https://kubetaire.nl/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/"
+                href="https://kubetaire.nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/"
+                href="https://kubetaire.nl/en/"
                 />
   </url>
   
   <url>
-    <loc>https://kmeinster.github.io/en/tags/</loc>
+    <loc>https://kubetaire.nl/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://kmeinster.github.io/tags/"
+                href="https://kubetaire.nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kmeinster.github.io/en/tags/"
+                href="https://kubetaire.nl/en/tags/"
                 />
   </url>
   
