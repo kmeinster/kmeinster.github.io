@@ -3,61 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kubetaire.nl/blog/</loc>
-    <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kubetaire.nl/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kubetaire.nl/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kubetaire.nl/</loc>
-    <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kubetaire.nl/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kubetaire.nl/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kubetaire.nl/blog/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kubetaire.nl/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kubetaire.nl/tags/</loc>
-    <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kubetaire.nl/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kubetaire.nl/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kubetaire.nl/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -82,6 +27,48 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://kubetaire.nl/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kubetaire.nl/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kubetaire.nl/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://kubetaire.nl/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kubetaire.nl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kubetaire.nl/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://kubetaire.nl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kubetaire.nl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kubetaire.nl/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://kubetaire.nl/tags/"
                 />
   </url>
   
